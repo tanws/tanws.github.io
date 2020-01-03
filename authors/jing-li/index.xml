@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Li | Wangshu Tan | Peking University</title>
+    <link>https://tanws.github.io/authors/jing-li/</link>
+      <atom:link href="https://tanws.github.io/authors/jing-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jing Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://tanws.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jing Li</title>
+      <link>https://tanws.github.io/authors/jing-li/</link>
+    </image>
+    
+    <item>
+      <title>Seasonal and Diurnal Variability of Planetary Boundary Layer Height in Beijing: Intercomparison Between MPL and WRF Results</title>
+      <link>https://tanws.github.io/publication/seasonal-and-diurnal-variability-of-planetary-boundary-layer-height-in-beijing-intercomparison-between-mpl-and-wrf-results/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
+      <guid>https://tanws.github.io/publication/seasonal-and-diurnal-variability-of-planetary-boundary-layer-height-in-beijing-intercomparison-between-mpl-and-wrf-results/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
