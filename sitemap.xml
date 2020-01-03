@@ -3,15 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-07-12T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-07-12T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-07-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gang-zhao/</loc>
+    <lastmod>2019-07-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/method-to-retrieve-cloud-condensation-nuclei-number-concentrations-using-lidar-measurements/</loc>
+    <lastmod>2019-07-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-07-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-07-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wangshu-tan/</loc>
+    <lastmod>2019-07-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
@@ -20,10 +52,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
   </url>
   
   <url>
