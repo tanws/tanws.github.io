@@ -5,7 +5,7 @@
     <link>https://tanws.github.io/authors/jing-li/</link>
       <atom:link href="https://tanws.github.io/authors/jing-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Jing Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://tanws.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jing Li</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Seasonal and Diurnal Variability of Planetary Boundary Layer Height in Beijing: Intercomparison Between MPL and WRF Results</title>
       <link>https://tanws.github.io/publication/seasonal-and-diurnal-variability-of-planetary-boundary-layer-height-in-beijing-intercomparison-between-mpl-and-wrf-results/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0800</pubDate>
       <guid>https://tanws.github.io/publication/seasonal-and-diurnal-variability-of-planetary-boundary-layer-height-in-beijing-intercomparison-between-mpl-and-wrf-results/</guid>
       <description></description>
     </item>
@@ -23,8 +23,16 @@
     <item>
       <title>Retrieval of Aerosol Profiles by Raman Lidar With Dynamic Determination of the Lidar Equation Reference Height</title>
       <link>https://tanws.github.io/publication/retrieval-of-aerosol-profiles-by-raman-lidar-with-dynamic-determination-of-the-lidar-equation-reference-height/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0800</pubDate>
       <guid>https://tanws.github.io/publication/retrieval-of-aerosol-profiles-by-raman-lidar-with-dynamic-determination-of-the-lidar-equation-reference-height/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Aerosol Hygroscopic Growth on Retrieving Aerosol Extinction Coefficient Profiles From Elastic-backscatter Lidar Signals</title>
+      <link>https://tanws.github.io/publication/impact-of-aerosol-hygroscopic-growth-on-retrieving-aerosol-extinction-coefficient-profiles-from-elastic-backscatter-lidar-signals/</link>
+      <pubDate>Thu, 12 Oct 2017 21:04:23 +0800</pubDate>
+      <guid>https://tanws.github.io/publication/impact-of-aerosol-hygroscopic-growth-on-retrieving-aerosol-extinction-coefficient-profiles-from-elastic-backscatter-lidar-signals/</guid>
       <description></description>
     </item>
     

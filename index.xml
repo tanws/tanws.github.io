@@ -5,7 +5,7 @@
     <link>https://tanws.github.io/</link>
       <atom:link href="https://tanws.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Wangshu Tan | Peking University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 21:04:23 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://tanws.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Wangshu Tan | Peking University</title>
@@ -13,26 +13,18 @@
     </image>
     
     <item>
-      <title>Impact of Aerosol Hygroscopic Growth on Retrieving Aerosol Extinction Coefficient Profiles From Elastic-backscatter Lidar Signals</title>
-      <link>https://tanws.github.io/publication/impact-of-aerosol-hygroscopic-growth-on-retrieving-aerosol-extinction-coefficient-profiles-from-elastic-backscatter-lidar-signals/</link>
-      <pubDate>Fri, 03 Jan 2020 21:04:23 +0800</pubDate>
-      <guid>https://tanws.github.io/publication/impact-of-aerosol-hygroscopic-growth-on-retrieving-aerosol-extinction-coefficient-profiles-from-elastic-backscatter-lidar-signals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Novel Method to Retrieve the Nocturnal Boundary Layer Structure Based on CCD Laser Aerosol Detection System Measurements</title>
-      <link>https://tanws.github.io/publication/a-novel-method-to-retrieve-the-nocturnal-boundary-layer-structure-based-on-ccd-laser-aerosol-detection-system-measurements/</link>
-      <pubDate>Fri, 03 Jan 2020 21:02:34 +0800</pubDate>
-      <guid>https://tanws.github.io/publication/a-novel-method-to-retrieve-the-nocturnal-boundary-layer-structure-based-on-ccd-laser-aerosol-detection-system-measurements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Potential of Polarization Lidar to Profile the Urban Aerosol Phase State During Haze Episodes</title>
       <link>https://tanws.github.io/publication/potential-of-polarization-lidar-to-profile-the-urban-aerosol-phase-state-during-haze-episodes/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0800</pubDate>
       <guid>https://tanws.github.io/publication/potential-of-polarization-lidar-to-profile-the-urban-aerosol-phase-state-during-haze-episodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal and Diurnal Variability of Planetary Boundary Layer Height in Beijing: Intercomparison Between MPL and WRF Results</title>
+      <link>https://tanws.github.io/publication/seasonal-and-diurnal-variability-of-planetary-boundary-layer-height-in-beijing-intercomparison-between-mpl-and-wrf-results/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0800</pubDate>
+      <guid>https://tanws.github.io/publication/seasonal-and-diurnal-variability-of-planetary-boundary-layer-height-in-beijing-intercomparison-between-mpl-and-wrf-results/</guid>
       <description></description>
     </item>
     
@@ -45,18 +37,26 @@
     </item>
     
     <item>
-      <title>Seasonal and Diurnal Variability of Planetary Boundary Layer Height in Beijing: Intercomparison Between MPL and WRF Results</title>
-      <link>https://tanws.github.io/publication/seasonal-and-diurnal-variability-of-planetary-boundary-layer-height-in-beijing-intercomparison-between-mpl-and-wrf-results/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
-      <guid>https://tanws.github.io/publication/seasonal-and-diurnal-variability-of-planetary-boundary-layer-height-in-beijing-intercomparison-between-mpl-and-wrf-results/</guid>
+      <title>Retrieval of Aerosol Profiles by Raman Lidar With Dynamic Determination of the Lidar Equation Reference Height</title>
+      <link>https://tanws.github.io/publication/retrieval-of-aerosol-profiles-by-raman-lidar-with-dynamic-determination-of-the-lidar-equation-reference-height/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0800</pubDate>
+      <guid>https://tanws.github.io/publication/retrieval-of-aerosol-profiles-by-raman-lidar-with-dynamic-determination-of-the-lidar-equation-reference-height/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Retrieval of Aerosol Profiles by Raman Lidar With Dynamic Determination of the Lidar Equation Reference Height</title>
-      <link>https://tanws.github.io/publication/retrieval-of-aerosol-profiles-by-raman-lidar-with-dynamic-determination-of-the-lidar-equation-reference-height/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 +0800</pubDate>
-      <guid>https://tanws.github.io/publication/retrieval-of-aerosol-profiles-by-raman-lidar-with-dynamic-determination-of-the-lidar-equation-reference-height/</guid>
+      <title>A Novel Method to Retrieve the Nocturnal Boundary Layer Structure Based on CCD Laser Aerosol Detection System Measurements</title>
+      <link>https://tanws.github.io/publication/a-novel-method-to-retrieve-the-nocturnal-boundary-layer-structure-based-on-ccd-laser-aerosol-detection-system-measurements/</link>
+      <pubDate>Fri, 15 Jun 2018 21:02:34 +0800</pubDate>
+      <guid>https://tanws.github.io/publication/a-novel-method-to-retrieve-the-nocturnal-boundary-layer-structure-based-on-ccd-laser-aerosol-detection-system-measurements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Aerosol Hygroscopic Growth on Retrieving Aerosol Extinction Coefficient Profiles From Elastic-backscatter Lidar Signals</title>
+      <link>https://tanws.github.io/publication/impact-of-aerosol-hygroscopic-growth-on-retrieving-aerosol-extinction-coefficient-profiles-from-elastic-backscatter-lidar-signals/</link>
+      <pubDate>Thu, 12 Oct 2017 21:04:23 +0800</pubDate>
+      <guid>https://tanws.github.io/publication/impact-of-aerosol-hygroscopic-growth-on-retrieving-aerosol-extinction-coefficient-profiles-from-elastic-backscatter-lidar-signals/</guid>
       <description></description>
     </item>
     

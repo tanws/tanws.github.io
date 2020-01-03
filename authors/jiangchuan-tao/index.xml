@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiangchuan Tao | Wangshu Tan | Peking University</title>
+    <link>https://tanws.github.io/authors/jiangchuan-tao/</link>
+      <atom:link href="https://tanws.github.io/authors/jiangchuan-tao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiangchuan Tao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jun 2018 21:02:34 +0800</lastBuildDate>
+    <image>
+      <url>https://tanws.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jiangchuan Tao</title>
+      <link>https://tanws.github.io/authors/jiangchuan-tao/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Method to Retrieve the Nocturnal Boundary Layer Structure Based on CCD Laser Aerosol Detection System Measurements</title>
+      <link>https://tanws.github.io/publication/a-novel-method-to-retrieve-the-nocturnal-boundary-layer-structure-based-on-ccd-laser-aerosol-detection-system-measurements/</link>
+      <pubDate>Fri, 15 Jun 2018 21:02:34 +0800</pubDate>
+      <guid>https://tanws.github.io/publication/a-novel-method-to-retrieve-the-nocturnal-boundary-layer-structure-based-on-ccd-laser-aerosol-detection-system-measurements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Aerosol Hygroscopic Growth on Retrieving Aerosol Extinction Coefficient Profiles From Elastic-backscatter Lidar Signals</title>
+      <link>https://tanws.github.io/publication/impact-of-aerosol-hygroscopic-growth-on-retrieving-aerosol-extinction-coefficient-profiles-from-elastic-backscatter-lidar-signals/</link>
+      <pubDate>Thu, 12 Oct 2017 21:04:23 +0800</pubDate>
+      <guid>https://tanws.github.io/publication/impact-of-aerosol-hygroscopic-growth-on-retrieving-aerosol-extinction-coefficient-profiles-from-elastic-backscatter-lidar-signals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
