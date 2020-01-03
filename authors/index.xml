@@ -5,76 +5,12 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title>C. Li</title>
-      <link>/authors/c.-li/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Zhao</title>
-      <link>/authors/c.-zhao/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Zhao</title>
-      <link>/authors/g.-zhao/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/g.-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Li</title>
-      <link>/authors/j.-li/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. Kang</title>
-      <link>/authors/l.-kang/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-kang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. Zhu</title>
-      <link>/authors/t.-zhu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>W. Tan</title>
-      <link>/authors/w.-tan/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/w.-tan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y. Yu</title>
-      <link>/authors/y.-yu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/y.-yu/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title></title>
