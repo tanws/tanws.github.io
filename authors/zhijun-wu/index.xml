@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhijun Wu | Wangshu Tan | Peking University</title>
+    <link>https://tanws.github.io/authors/zhijun-wu/</link>
+      <atom:link href="https://tanws.github.io/authors/zhijun-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhijun Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://tanws.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhijun Wu</title>
+      <link>https://tanws.github.io/authors/zhijun-wu/</link>
+    </image>
+    
+    <item>
+      <title>Potential of Polarization Lidar to Profile the Urban Aerosol Phase State During Haze Episodes</title>
+      <link>https://tanws.github.io/publication/potential-of-polarization-lidar-to-profile-the-urban-aerosol-phase-state-during-haze-episodes/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0800</pubDate>
+      <guid>https://tanws.github.io/publication/potential-of-polarization-lidar-to-profile-the-urban-aerosol-phase-state-during-haze-episodes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
