@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Wangshu Tan</title>
-    <link>https://tanws.github.io/post/</link>
-      <atom:link href="https://tanws.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tanwangshu.com/post/</link>
+      <atom:link href="https://tanwangshu.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Wangshu Tan. All rights reserved.</copyright>
     <image>
-      <url>https://tanws.github.io/images/icon_hue72f27854054936582579bf1b3d71cf2_69717_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tanwangshu.com/images/icon_hue72f27854054936582579bf1b3d71cf2_69717_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://tanws.github.io/post/</link>
+      <link>https://tanwangshu.com/post/</link>
     </image>
     
   </channel>
