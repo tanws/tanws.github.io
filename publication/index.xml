@@ -5,12 +5,36 @@
     <link>https://tanwangshu.com/publication/</link>
       <atom:link href="https://tanwangshu.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Wangshu Tan. All rights reserved.</copyright><lastBuildDate>Fri, 10 Dec 2021 13:12:18 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Wangshu Tan. All rights reserved.</copyright><lastBuildDate>Fri, 10 Dec 2021 13:18:35 +0800</lastBuildDate>
     <image>
       <url>https://tanwangshu.com/img/share.jpg</url>
       <title>Publications</title>
       <link>https://tanwangshu.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Determination of Equivalent Black Carbon Mass Concentration From Aerosol Light Absorption Using Variable Mass Absorption Cross Section</title>
+      <link>https://tanwangshu.com/publication/determination-of-equivalent-black-carbon-mass-concentration-from-aerosol-light-absorption-using-variable-mass-absorption-cross-section/</link>
+      <pubDate>Fri, 10 Dec 2021 13:18:35 +0800</pubDate>
+      <guid>https://tanwangshu.com/publication/determination-of-equivalent-black-carbon-mass-concentration-from-aerosol-light-absorption-using-variable-mass-absorption-cross-section/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Water Cloud Optical and Microphysical Properties From Combined Multiwavelength Lidar and Radar Data</title>
+      <link>https://tanwangshu.com/publication/retrieval-of-water-cloud-optical-and-microphysical-properties-from-combined-multiwavelength-lidar-and-radar-data/</link>
+      <pubDate>Fri, 10 Dec 2021 13:17:22 +0800</pubDate>
+      <guid>https://tanwangshu.com/publication/retrieval-of-water-cloud-optical-and-microphysical-properties-from-combined-multiwavelength-lidar-and-radar-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Aerosol Liquid Water Content From High Spectral Resolution Lidar</title>
+      <link>https://tanwangshu.com/publication/retrieval-of-aerosol-liquid-water-content-from-high-spectral-resolution-lidar/</link>
+      <pubDate>Fri, 10 Dec 2021 13:15:40 +0800</pubDate>
+      <guid>https://tanwangshu.com/publication/retrieval-of-aerosol-liquid-water-content-from-high-spectral-resolution-lidar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variability of Surface Aerosol Properties at an Urban Site in Beijing Based on Two Years of In–situ Measurements</title>
