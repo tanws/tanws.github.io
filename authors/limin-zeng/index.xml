@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yingli Yu | Wangshu Tan</title>
-    <link>https://tanwangshu.com/authors/yingli-yu/</link>
-      <atom:link href="https://tanwangshu.com/authors/yingli-yu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yingli Yu</description>
+    <title>Limin Zeng | Wangshu Tan</title>
+    <link>https://tanwangshu.com/authors/limin-zeng/</link>
+      <atom:link href="https://tanwangshu.com/authors/limin-zeng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Limin Zeng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Wangshu Tan. All rights reserved.</copyright><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://tanwangshu.com/img/share.jpg</url>
-      <title>Yingli Yu</title>
-      <link>https://tanwangshu.com/authors/yingli-yu/</link>
+      <title>Limin Zeng</title>
+      <link>https://tanwangshu.com/authors/limin-zeng/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://tanwangshu.com/publication/profiling-aerosol-liquid-water-content-using-a-polarization-lidar/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
       <guid>https://tanwangshu.com/publication/profiling-aerosol-liquid-water-content-using-a-polarization-lidar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Method to Retrieve Cloud Condensation Nuclei Number Concentrations Using Lidar Measurements</title>
-      <link>https://tanwangshu.com/publication/method-to-retrieve-cloud-condensation-nuclei-number-concentrations-using-lidar-measurements/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0800</pubDate>
-      <guid>https://tanwangshu.com/publication/method-to-retrieve-cloud-condensation-nuclei-number-concentrations-using-lidar-measurements/</guid>
       <description></description>
     </item>
     

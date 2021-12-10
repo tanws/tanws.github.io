@@ -5,12 +5,20 @@
     <link>https://tanwangshu.com/authors/ling-kang/</link>
       <atom:link href="https://tanwangshu.com/authors/ling-kang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ling Kang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Wangshu Tan. All rights reserved.</copyright><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Wangshu Tan. All rights reserved.</copyright><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://tanwangshu.com/img/share.jpg</url>
       <title>Ling Kang</title>
       <link>https://tanwangshu.com/authors/ling-kang/</link>
     </image>
+    
+    <item>
+      <title>Profiling Aerosol Liquid Water Content Using a Polarization Lidar</title>
+      <link>https://tanwangshu.com/publication/profiling-aerosol-liquid-water-content-using-a-polarization-lidar/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://tanwangshu.com/publication/profiling-aerosol-liquid-water-content-using-a-polarization-lidar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Potential of Polarization Lidar to Profile the Urban Aerosol Phase State During Haze Episodes</title>
