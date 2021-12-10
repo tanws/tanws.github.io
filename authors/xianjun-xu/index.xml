@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yiqi Chu | Wangshu Tan</title>
-    <link>https://tanwangshu.com/authors/yiqi-chu/</link>
-      <atom:link href="https://tanwangshu.com/authors/yiqi-chu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yiqi Chu</description>
+    <title>Xianjun Xu | Wangshu Tan</title>
+    <link>https://tanwangshu.com/authors/xianjun-xu/</link>
+      <atom:link href="https://tanwangshu.com/authors/xianjun-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xianjun Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Wangshu Tan. All rights reserved.</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://tanwangshu.com/img/share.jpg</url>
-      <title>Yiqi Chu</title>
-      <link>https://tanwangshu.com/authors/yiqi-chu/</link>
+      <title>Xianjun Xu</title>
+      <link>https://tanwangshu.com/authors/xianjun-xu/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://tanwangshu.com/publication/impacts-of-meteorology-and-emission-control-on-the-abnormally-low-particulate-matter-concentration-observed-during-the-winter-of-2017/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0800</pubDate>
       <guid>https://tanwangshu.com/publication/impacts-of-meteorology-and-emission-control-on-the-abnormally-low-particulate-matter-concentration-observed-during-the-winter-of-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seasonal and Diurnal Variability of Planetary Boundary Layer Height in Beijing: Intercomparison Between MPL and WRF Results</title>
-      <link>https://tanwangshu.com/publication/seasonal-and-diurnal-variability-of-planetary-boundary-layer-height-in-beijing-intercomparison-between-mpl-and-wrf-results/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0800</pubDate>
-      <guid>https://tanwangshu.com/publication/seasonal-and-diurnal-variability-of-planetary-boundary-layer-height-in-beijing-intercomparison-between-mpl-and-wrf-results/</guid>
       <description></description>
     </item>
     
