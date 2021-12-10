@@ -5,7 +5,7 @@
     <link>https://tanwangshu.com/authors/</link>
       <atom:link href="https://tanwangshu.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Wangshu Tan. All rights reserved.</copyright><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Wangshu Tan. All rights reserved.</copyright><lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://tanwangshu.com/img/share.jpg</url>
       <title>Authors</title>
@@ -15,8 +15,72 @@
     <item>
       <title>Chengcai Li</title>
       <link>https://tanwangshu.com/authors/chengcai-li/</link>
-      <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
       <guid>https://tanwangshu.com/authors/chengcai-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chuanyang Shen</title>
+      <link>https://tanwangshu.com/authors/chuanyang-shen/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://tanwangshu.com/authors/chuanyang-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianping Guo</title>
+      <link>https://tanwangshu.com/authors/jianping-guo/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://tanwangshu.com/authors/jianping-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Li</title>
+      <link>https://tanwangshu.com/authors/jing-li/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://tanwangshu.com/authors/jing-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Wei</title>
+      <link>https://tanwangshu.com/authors/jing-wei/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://tanwangshu.com/authors/jing-wei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianning Su</title>
+      <link>https://tanwangshu.com/authors/tianning-su/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://tanwangshu.com/authors/tianning-su/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wangshu Tan</title>
+      <link>https://tanwangshu.com/authors/wangshu-tan/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://tanwangshu.com/authors/wangshu-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenchao Han</title>
+      <link>https://tanwangshu.com/authors/wenchao-han/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://tanwangshu.com/authors/wenchao-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhanqing Li</title>
+      <link>https://tanwangshu.com/authors/zhanqing-li/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://tanwangshu.com/authors/zhanqing-li/</guid>
       <description></description>
     </item>
     
@@ -25,14 +89,6 @@
       <link>https://tanwangshu.com/authors/huabin-dong/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
       <guid>https://tanwangshu.com/authors/huabin-dong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jing Li</title>
-      <link>https://tanwangshu.com/authors/jing-li/</link>
-      <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
-      <guid>https://tanwangshu.com/authors/jing-li/</guid>
       <description></description>
     </item>
     
@@ -57,14 +113,6 @@
       <link>https://tanwangshu.com/authors/tong-zhu/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
       <guid>https://tanwangshu.com/authors/tong-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wangshu Tan</title>
-      <link>https://tanwangshu.com/authors/wangshu-tan/</link>
-      <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
-      <guid>https://tanwangshu.com/authors/wangshu-tan/</guid>
       <description></description>
     </item>
     
@@ -133,14 +181,6 @@
     </item>
     
     <item>
-      <title>Tianning Su</title>
-      <link>https://tanwangshu.com/authors/tianning-su/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0800</pubDate>
-      <guid>https://tanwangshu.com/authors/tianning-su/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chunsheng Zhao</title>
       <link>https://tanwangshu.com/authors/chunsheng-zhao/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0800</pubDate>
@@ -161,14 +201,6 @@
       <link>https://tanwangshu.com/authors/dandan-chen/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0800</pubDate>
       <guid>https://tanwangshu.com/authors/dandan-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jianping Guo</title>
-      <link>https://tanwangshu.com/authors/jianping-guo/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 +0800</pubDate>
-      <guid>https://tanwangshu.com/authors/jianping-guo/</guid>
       <description></description>
     </item>
     
