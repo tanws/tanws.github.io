@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0 | Wangshu Tan | Peking University</title>
-    <link>https://tanws.github.io/publication_types/0/</link>
-      <atom:link href="https://tanws.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <title>0 | Wangshu Tan</title>
+    <link>https://tanwangshu.com/publication_types/0/</link>
+      <atom:link href="https://tanwangshu.com/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 21:04:23 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Wangshu Tan. All rights reserved.</copyright><lastBuildDate>Fri, 10 Dec 2021 12:15:14 +0800</lastBuildDate>
     <image>
-      <url>https://tanws.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tanwangshu.com/img/share.jpg</url>
       <title>0</title>
-      <link>https://tanws.github.io/publication_types/0/</link>
+      <link>https://tanwangshu.com/publication_types/0/</link>
     </image>
     
     <item>
-      <title>Impact of Aerosol Hygroscopic Growth on Retrieving Aerosol Extinction Coefficient Profiles From Elastic-backscatter Lidar Signals</title>
-      <link>https://tanws.github.io/publication/impact-of-aerosol-hygroscopic-growth-on-retrieving-aerosol-extinction-coefficient-profiles-from-elastic-backscatter-lidar-signals/</link>
-      <pubDate>Fri, 03 Jan 2020 21:04:23 +0800</pubDate>
-      <guid>https://tanws.github.io/publication/impact-of-aerosol-hygroscopic-growth-on-retrieving-aerosol-extinction-coefficient-profiles-from-elastic-backscatter-lidar-signals/</guid>
+      <title>The Significant Impact of Aerosol Vertical Structure on Lower Atmosphere Stability and Its Critical Role in Aerosol–planetary Boundary Layer (PBL) Interactions</title>
+      <link>https://tanwangshu.com/publication/the-significant-impact-of-aerosol-vertical-structure-on-lower-atmosphere-stability-and-its-critical-role-in-aerosolplanetary-boundary-layer-pbl-interactions/</link>
+      <pubDate>Fri, 10 Dec 2021 12:15:14 +0800</pubDate>
+      <guid>https://tanwangshu.com/publication/the-significant-impact-of-aerosol-vertical-structure-on-lower-atmosphere-stability-and-its-critical-role-in-aerosolplanetary-boundary-layer-pbl-interactions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Novel Method to Retrieve the Nocturnal Boundary Layer Structure Based on CCD Laser Aerosol Detection System Measurements</title>
-      <link>https://tanws.github.io/publication/a-novel-method-to-retrieve-the-nocturnal-boundary-layer-structure-based-on-ccd-laser-aerosol-detection-system-measurements/</link>
-      <pubDate>Fri, 03 Jan 2020 21:02:34 +0800</pubDate>
-      <guid>https://tanws.github.io/publication/a-novel-method-to-retrieve-the-nocturnal-boundary-layer-structure-based-on-ccd-laser-aerosol-detection-system-measurements/</guid>
+      <title>Profiling Aerosol Liquid Water Content Using a Polarization Lidar</title>
+      <link>https://tanwangshu.com/publication/profiling-aerosol-liquid-water-content-using-a-polarization-lidar/</link>
+      <pubDate>Fri, 10 Dec 2021 12:11:17 +0800</pubDate>
+      <guid>https://tanwangshu.com/publication/profiling-aerosol-liquid-water-content-using-a-polarization-lidar/</guid>
       <description></description>
     </item>
     
